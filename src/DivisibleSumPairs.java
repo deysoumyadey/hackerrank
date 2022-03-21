@@ -1,3 +1,4 @@
+package hackerrank.src;
 
 public class DivisibleSumPairs {
 
